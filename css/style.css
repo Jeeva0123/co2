@@ -515,7 +515,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 .section-header .section-title {
     font-size: 32px;
-    color: #fff;
+    color: black;
     text-transform: uppercase;
     text-align: center;
     font-weight: 700;
@@ -906,7 +906,7 @@ border-radius: 1%;
 --------------------------------*/
 #contact {
    /* background: #f7f7f7;*/
-    background-image: url('../img/bg2.jpg');
+    background-image: url('');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
