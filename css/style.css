@@ -561,13 +561,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 #about2 .about-container .background {
     min-height: 300px;
-    background: url(../img/bg3.jpg) ;
+    background: url(../img/bg3.jpg) no-repeat;
     margin-bottom: 10px;
 
 }
 #about3 .about-container .background {
     min-height: 300px;
-    background: url(../img/bg1.jpg) ;
+    background: url(../img/bg1.jpg) no-repeat;
     margin-bottom: 10px;
 }
 #about .about-container .content {
@@ -589,7 +589,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-container p {
     line-height: 26px;
 }
-
+.
 #about .about-container p:last-child {
     margin-bottom: 0;
 }
@@ -1120,4 +1120,8 @@ border-radius: 1%;
         margin-top: 25px;
         margin-left: 140px;
     }
+}
+ul{
+     list-style-image: url('../img/coco2.png');
+
 }
