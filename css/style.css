@@ -14,7 +14,7 @@ body {
 }
 
 a {
-    color: #2dc997;
+    color: black;
 }
 
 a:hover,
@@ -728,7 +728,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 #services .title a {
     color: #111;
 }
-
+.tittle{
+    color: #333;
+font-weight: 700;
+font-size: 32px;
+}
 #services .description {
     font-size: 14px;
     line-height: 24px;
