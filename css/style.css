@@ -149,9 +149,8 @@ padding-top: 2px;*/
 }
 
 .logo {
-   margin-top: 20%;
-    width: 20%;
-    height: 20%;
+    width: 50%;
+    height: 50%;
 
 }
 
@@ -159,9 +158,8 @@ padding-top: 2px;*/
 
 
     .logo {
-       width: 20%;
-
-height: 20%;
+        width: 50%;
+        height: 50%;
 
     }
 }
@@ -185,8 +183,8 @@ height: 20%;
 
 #hero:before {
     content: "";
-/*    background: rgba(50, 174, 37, 0.31);
-*/    position: absolute;
+    background: rgba(50, 174, 37, 0.31);
+    position: absolute;
     bottom: 0;
     top: 0;
     left: 0;
@@ -194,7 +192,7 @@ height: 20%;
 }
 .glass2{
     border: 6px solid #f2f2f21a;
-/*background: #37a86c80;*/
+background: #37a86c80;
 border-radius: 1%;
 }
 #hero .hero-container {
@@ -216,7 +214,7 @@ border-radius: 1%;
     font-weight: 700;
     line-height: 56px;
     text-transform: uppercase;
-    color: black;
+    color: #fff;
 }
 
 @media (max-width: 768px) {
@@ -227,7 +225,7 @@ border-radius: 1%;
 }
 
 #hero h2 {
-    color: black;
+    color: #eee;
     margin-bottom: 50px;
     font-size: 24px;
 }
