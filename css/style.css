@@ -158,7 +158,7 @@ height: 63%;
 
 
     .logo {
-        width: 100%;
+        width: 80%;
         height: 100%;
 
     }
@@ -335,7 +335,7 @@ border-radius: 1%;
     padding: 0 8px 10px 8px;
     text-decoration: none;
     display: inline-block;
-    color: #fff;
+    color: black;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     text-transform: uppercase;
@@ -376,7 +376,7 @@ border-radius: 1%;
 }
 
 .nav-menu ul li {
-    background: #fff;
+    background: black;
 }
 
 .nav-menu ul li:first-child {
@@ -394,7 +394,7 @@ border-radius: 1%;
 
 .nav-menu ul li a:hover {
     background: #2dc997;
-    color: #fff;
+    color: black;
 }
 
 .nav-menu ul ul {
@@ -418,7 +418,7 @@ border-radius: 1%;
 }
 
 #mobile-nav-toggle i {
-    color: #fff;
+    color: black;
 }
 
 @media (max-width: 768px) {
@@ -509,7 +509,7 @@ body.mobile-nav-active #mobile-nav {
 }
 
 body.mobile-nav-active #mobile-nav-toggle {
-    color: #fff;
+    color: black;
 }
 
 /*--------------------------------------------------------------
